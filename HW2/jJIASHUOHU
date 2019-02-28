@@ -1,0 +1,16 @@
+master-C1
+<<<<<<< HEAD
+<<<<<<< HEAD
+master-C2
+master-C3
+master-C4
+=======
+issue1-C1
+issue1-C2
+issue1-C3
+>>>>>>> issue1
+=======
+master-C2
+issue2-C1
+issue2-C2
+>>>>>>> issue2
